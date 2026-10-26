@@ -3163,8 +3163,8 @@ const easeInFunctions = {
 
 /**
  * @typedef  {Object} EasesFunctions
- * @property {typeof none} linear
- * @property {typeof none} none
+ * @property {EasingFunction} linear
+ * @property {EasingFunction} none
  * @property {PowerEasing} in
  * @property {PowerEasing} out
  * @property {PowerEasing} inOut

@@ -1,5 +1,5 @@
 {
-  "name": "animejs",
+  "name": "@foundry-vtt-types/animejs",
   "version": "4.3.6",
   "description": "JavaScript animation engine",
   "homepage": "https://animejs.com",
@@ -7,14 +7,14 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/juliangarnier/anime.git"
+    "url": "git+https://github.com/founry-vtt-types/anime.git"
   },
   "bugs": {
-    "url": "https://github.com/juliangarnier/anime/issues"
+    "url": "https://github.com/founry-vtt-types/anime/issues"
   },
   "funding": {
     "type": "github",
-    "url": "https://github.com/sponsors/juliangarnier"
+    "url": "https://github.com/sponsors/founry-vtt-types"
   },
   "keywords": [
     "anime",
